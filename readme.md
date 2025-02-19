@@ -1,8 +1,8 @@
 # OpeNITHM
 
-This repository contails files related to OpeNITHM.
+This repository contails files related to OpeNITHM. This fork includes 3D printed upgrades to make the laser cut version have fold down wings.
 
-Firmware, schematics, board layout, and CAD files are included in this repo. Please see the CAD directory for the original 3d printed version, or the v2-cad directory for the laser cut version. 
+Firmware, schematics, board layout, and CAD files are included in this repo. Please see the CAD directory for the original 3d printed version, or the v2-cad directory for the laser cut version.
 
 ## List of Hardware
 
